@@ -12,12 +12,18 @@
     <artifactId>zk-common-center</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>zk-common-center</name>
-
-
     <description>通用模块</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
+
+    <modules>
+        <module>zk-common-core</module>
+        <module>zk-common-db</module>
+    </modules>
+
+
+
     <dependencies>
 
         <dependency>

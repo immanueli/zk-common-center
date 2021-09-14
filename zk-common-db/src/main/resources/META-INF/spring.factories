@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.zkdn.zk.common.db.config.ClusterDataBaseConfig,\
+  com.zkdn.zk.common.db.config.MasterDataBaseConfig
