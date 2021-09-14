@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.zkdn.zk.common.core.config.MessageSourceConfig,\
+  com.zkdn.zk.common.core.config.RestTemplateConfig,\
+  com.zkdn.zk.common.core.util.SpringContextHolder
